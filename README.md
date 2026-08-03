@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alwin Jude
+# Alwin Sunny Jude
 
 ### AI-Focused Full Stack Engineer
 
