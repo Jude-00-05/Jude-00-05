@@ -31,7 +31,7 @@ Status: generation pipeline working end-to-end · analytics dashboard next
 | 2026 | Started AI Knowledge Base — first project scoped around RAG, not just an API wrapper |
 | 2026 | Shipped FlashCard AI generation pipeline (PDF → OCR → flashcards) |
 | 2025 | Built first full-stack apps with React + Spring Boot + PostgreSQL |
-| 2024 | Started CS degree, began learning to program |
+| 2023 | Started CS degree, began learning to program |
 
 ## How I work
 
