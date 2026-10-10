@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Alwin Sunny Jude — Full Stack Engineer, AI-focused</title>
+  <desc id="desc">A retro terminal banner with a dark grid, mint and lime accents, and a pixel computer illustration.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#263537" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" fill="#10191b"/>
+  <rect width="1200" height="340" fill="url(#grid)" opacity=".65"/>
+  <rect x="14" y="14" width="1172" height="312" fill="none" stroke="#7de3cf" stroke-width="2"/>
+  <rect x="30" y="29" width="1140" height="26" fill="#263537"/>
+  <circle cx="47" cy="42" r="4" fill="#ff846e"/>
+  <circle cx="63" cy="42" r="4" fill="#f3ca65"/>
+  <circle cx="79" cy="42" r="4" fill="#b7f36b"/>
+  <text x="101" y="47" fill="#c2d6c8" font-family="monospace" font-size="12" letter-spacing="2">PROFILE OS  /  BUILD 2026.10</text>
+  <text x="72" y="105" fill="#b7f36b" font-family="monospace" font-size="15" letter-spacing="3">&gt; USER PROFILE LOADED</text>
+  <text x="70" y="166" fill="#f3f0dd" font-family="monospace" font-size="47" font-weight="700" letter-spacing="1">ALWIN SUNNY JUDE</text>
+  <text x="74" y="207" fill="#7de3cf" font-family="monospace" font-size="19" letter-spacing="1">FULL STACK ENGINEER · AI-FOCUSED</text>
+  <path d="M72 229H785" stroke="#3c5553" stroke-width="2"/>
+  <text x="74" y="260" fill="#d1dfd4" font-family="monospace" font-size="15">REACT / SPRING BOOT / POSTGRESQL / AWS</text>
+  <text x="74" y="291" fill="#90a8a0" font-family="monospace" font-size="13">STATUS: BUILDING THINGS THAT WORK UNDER THE HOOD</text>
+  <g transform="translate(905 88)" shape-rendering="crispEdges">
+    <rect x="0" y="0" width="176" height="112" fill="#152224" stroke="#7de3cf" stroke-width="4"/>
+    <rect x="11" y="11" width="154" height="80" fill="#0c1517" stroke="#38504e" stroke-width="2"/>
+    <rect x="25" y="25" width="19" height="19" fill="#b7f36b"/>
+    <rect x="50" y="25" width="19" height="19" fill="#7de3cf"/>
+    <rect x="75" y="25" width="19" height="19" fill="#f3ca65"/>
+    <rect x="100" y="25" width="42" height="7" fill="#466361"/>
+    <rect x="25" y="57" width="117" height="7" fill="#466361"/>
+    <rect x="25" y="73" width="76" height="7" fill="#466361"/>
+    <rect x="65" y="112" width="45" height="18" fill="#7de3cf"/>
+    <rect x="46" y="130" width="83" height="7" fill="#7de3cf"/>
+    <rect x="-10" y="137" width="196" height="10" fill="#b7f36b"/>
+  </g>
+  <text x="923" y="257" fill="#90a8a0" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM READY</text>
+</svg>
